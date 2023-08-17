@@ -1,2 +1,2 @@
-# danwarnick.im
+# DanWarnick.Im
 Portfolio Website
